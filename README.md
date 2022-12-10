@@ -10,6 +10,8 @@ V or Left Mouse Button- Shoot (only if an enemy is in the map)
 P - Quit
 Enter - Pause
 
+***NOTE! Song files are NOT part of the code licensing and have the license below:***
+
 Newgrounds Audio - Music Licenses
 
 Attribution: You must give credit to the artist.
