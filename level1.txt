@@ -1,0 +1,47 @@
+ground,3098,324,200,96,32,300,5,100
+ground,2506,595,0,128,32,200,1,100
+ground,2903,344,200,96,32,300,5,100
+ground,-37,-500,1000,1510,1000,250,7,100
+winblock,2025,-1000,0,400,400,400
+ground,1260,-50,-600,128,350,128,1,100,building.png,building.png,building.png,building.png,building.png,building.png
+ground,79,150,250,175,32,150,1,100,roof.png,roof.png,roof.png,roof.png,roof.png,roof.png
+ground,100,172,250,128,128,128,1,100,wall.png,wall.png,wall.png,house.png,wall.png,wall.png
+ground,719,56,-600,128,32,300,2,100
+ground,-236,-499,0,200,1000,4000,7,100
+ground,-100,300,0,1500,32,1800,1,0
+ground,540,160,-600,128,32,200,1,100
+ground,275,225,-600,150,32,300,4,100
+ground,976,-10,-600,128,32,300,3,100
+ground,842,-100,250,200,400,200,1,100,building.png,building.png,building.png,building.png,building.png,building.png
+ground,1401,334,0,200,64,500,1,100
+ground,1602,399,0,200,64,500,1,100
+ground,1803,463,0,200,64,500,1,100
+ground,2004,527,500,500,64,2000,1,100
+ground,-35,-499,-1000,1510,1000,250,7,100
+ground,712,5,350,200,300,200,1,100,building.png,building.png,building.png,building.png,building.png,building.png
+ground,3279,350,0,96,32,300,5,100
+ground,2577,449,0,96,32,300,5,100
+ground,2727,373,0,96,32,300,5,100
+ground,2753,602,0,600,32,400,3,120
+ground,3429,451,0,128,32,200,1,100
+ground,1277,-46,-400,96,32,128,5,100
+ground,1277,-46,-100,96,32,128,5,100
+ground,1277,-46,100,96,32,128,5,100
+ground,1112,-89,100,96,32,128,5,100
+missiongoal,2192,-152,1750,100,1000,100,6,random,random,0
+missiongoal,940,-597,250,100,1000,100,5,random,random,0
+missiongoal,2429,29,0,100,1000,100,3,Find the boat at the docks,You'll need to go inside it,0
+missiongoal,940,-698,100,100,2000,100,1,Take this next door, Thank you for doing that.,0
+missiongoal,3493,-44,0,100,1000,100,4,random,random,0
+missiongoal,160,-699,150,100,2000,100,0,random,random,0
+missiongoal,1322,-548,-600,100,1000,100,2,Tell my son I am leaving soon.,Thank you for telling me.,1
+deathbox,-600,800,4000,2000,0,2000
+player,30,200,-100,48,48,24
+backcolor,255,255,255
+deathplane,3000
+infinitebots,0
+maxbots,0
+viewdist,4000
+nummissions,6
+sanitylapse,3
+skybox,1
