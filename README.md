@@ -1,6 +1,8 @@
 # TheBabyIsComing
 The Baby Is Coming is a short story/game I created for a 2nd year University project that is based on the public domain story 2BR02B by Kurt Vonnegut
 
+Requires Processing 2.2.X, will not work in Processing 3
+
 CONTROLS:
 
 W, A, S, D / Arrow Keys - Movement
